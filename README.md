@@ -1,3 +1,3 @@
 # LabComp1
 
-Não mexa no meu codigo, obrigado, volte sempre
+Repositório para teste de introdução a git, no lab. de Computação, volte sempre
